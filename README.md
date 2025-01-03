@@ -2,7 +2,7 @@
 Python-based ETL pipeline for processing orders and contacts data from seven different vineyard brands
 
 ## Features
-- Extracted data using **WineDirect SOAP APIs**.
+- Extracted data using **SOAP APIs**.
 - Transformed raw data into structured formats with **PySpark**.
 - Stored cleaned and enriched data in **Delta Lake** for analytics and reporting.
 
